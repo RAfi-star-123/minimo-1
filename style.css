@@ -1,0 +1,270 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+
+overflow: hidden;
+
+width: 90%;
+
+margin: auto;
+
+margin-top: 55px;
+}
+.logo{
+
+width: 20%;
+
+float: left;
+}
+.logo img{
+
+}
+.menu{
+
+width: 50%;
+
+float: right;
+}
+.menu ul{
+
+list-style: none;
+
+float: right;
+}
+.menu ul li{
+
+float: left;
+
+margin-left: 60px;
+}
+.menu ul li a{color: #626262;text-decoration: none;text-transform: uppercase;}
+.banner{
+
+width: 90%;
+
+margin: auto;
+}
+.banner img{
+    
+width: 100%;
+}
+.c1{
+
+width: 80%;
+
+margin: 100px auto;
+}
+.c1 h5{color: #b4ad9e;text-transform: uppercase;margin-bottom: 30px;}
+.c1 h1{
+
+color: #626262;
+
+font-size: 35px;
+
+margin-bottom: 40px;
+}
+.c1 p{
+
+color: #626262;
+
+margin-bottom: 55px;
+}
+.c1 a{
+    
+color: #b4ad9e;
+    
+/* list-style: none; */
+    
+text-decoration: none;
+    
+font-size: 15px;
+    
+font-weight: 600;
+    
+/* margin-bottom: 50px; */
+}
+.p2{
+    
+overflow: hidden;
+    
+margin: auto;
+    
+width: 80%;
+    
+margin-bottom: 110px;
+}
+.p2l{
+
+width: 40%;
+
+float: left;
+
+/* margin: auto; */
+}
+.p2l img{
+
+width: 100%;
+
+/* margin: auto; */
+
+margin-bottom: 30px;
+}
+.p2l h5{
+
+margin-bottom: 35px;
+
+text-transform: uppercase;
+
+font-size: 15px;
+
+color: #b4ad9e;
+}
+.p2l h1{
+
+margin-bottom: 40px;
+
+color: #626262;
+}
+.p2l p{
+
+color: #626262;
+}
+.p2r{
+
+width: 40%;
+
+float: right;
+
+/* margin: auto; */
+}
+.p2r img{
+
+width: 100%;
+
+/* margin: auto; */
+
+margin-bottom: 30px;
+}
+.p2r h5{
+
+margin-bottom: 35px;
+
+text-transform: uppercase;
+
+font-size: 15px;
+
+color: #b4ad9e;
+}
+.p2r h1{
+
+margin-bottom: 40px;
+
+color: #626262;
+}
+.p2r p{
+
+color: #626262;
+}
+.p3{width: 80%;margin: auto;overflow: hidden;margin-bottom: 100px;}
+.p3l{
+
+width: 40%;
+
+float: left;
+}
+.p3l img{
+
+margin-bottom: 30px;
+}
+.p3l h5{
+
+margin-bottom: 35px;
+
+font-size: 15px;
+
+color: #b4ad9e;
+}
+.p3l h1{
+
+margin-bottom: 40px;
+
+color: #626262;
+}
+.p3l p{
+
+color: #626262;
+}
+.p3r{
+
+width: 40%;
+
+float: right;
+}
+.p3r img{
+
+margin-bottom: 30px;
+}
+.p3r h5{
+
+margin-bottom: 35px;
+
+font-size: 15px;
+
+color: #b4ad9e;
+}
+.p3r h1{
+    
+margin-bottom: 40px;
+    
+color: #626262;
+}
+.p3r p{
+    
+/* margin-bottom: 40px; */
+    
+color: #626262;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
